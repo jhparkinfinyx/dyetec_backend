@@ -1,6 +1,0 @@
-Flask
-torchvision
-flask_cors
-pymysql
-celery
-redis
