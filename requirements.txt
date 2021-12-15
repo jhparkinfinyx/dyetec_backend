@@ -1,6 +1,3 @@
-Flask
-torchvision
-flask_cors
-pymysql
-celery
-redis
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f7a5d2aba17a7ecb75209bfe4ab9591d450d4540d3ec26017d38b3291b639a7
+size 49

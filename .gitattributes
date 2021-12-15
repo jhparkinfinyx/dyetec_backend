@@ -1,4 +1,4 @@
-/model filter=lfs diff=lfs merge=lfs -text
+model filter=lfs diff=lfs merge=lfs -text
 memo.txt filter=lfs diff=lfs merge=lfs -text
 register_service filter=lfs diff=lfs merge=lfs -text
 SetImageToDB.py filter=lfs diff=lfs merge=lfs -text
